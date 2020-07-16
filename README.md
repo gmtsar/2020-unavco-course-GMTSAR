@@ -19,7 +19,7 @@ Please refer to the gmtsar wiki page https://github.com/gmtsar/gmtsar/wiki for i
 
 **Time table**
 July 22-23 (Wednesday-Thursday), 2020, 10AM PDT - 1PM PDT (plus continuted breakout sessions)
-### DAY-1 -  July 22:
+#### DAY-1 -  July 22:
 Session 1 - 1 hour
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
@@ -41,9 +41,9 @@ Session 2 - 2 hours
 | 10    | Applications – interseismic and atmosphere | Tymofyeyeva |
 | 11    | SAR data access – UNAVCO | Wei |
 | 12    | Sentinel data access demo and ASF | Wei |
-### Breakout session continue with assigned groups
+#### Breakout session continue with assigned groups
 
-### DAY-2 – July 23
+#### DAY-2 – July 23
 Session 1 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
@@ -60,6 +60,6 @@ Session 2 – 1.5 hours
 | 19    | Phase unwrapping – application – snaphu | Wei |
 | 20    | ScanSAR and TOPS | Xu |
 | 21    | Batch processing | Tymofyeyeva |
-### Breakout session continue with assigned groups
+#### Breakout session continue with assigned groups
 
 
