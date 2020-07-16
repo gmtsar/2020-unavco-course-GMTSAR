@@ -18,7 +18,7 @@ Assisted by
 Please refer to the gmtsar wiki page https://github.com/gmtsar/gmtsar/wiki for installation.
 
 **Time table**
-July 22-23 (Wednesday-Thursday), 2020, 10AM PDT - 1PM PDT
+July 22-23 (Wednesday-Thursday), 2020, 10AM PDT - 1PM PDT (plus continuted breakout sessions)
 ### DAY-1 -  July 22:
 Session 1 - 1 hour
 | **Number** | **Theme** | **Instructor** |
