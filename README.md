@@ -53,8 +53,8 @@ Session 2 - 2 hours
 Session 1 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 13    | 2-pass processing – tour of data files | Wang |
-| 14    | SAR Theory – Appendix A | Materna |
+| 13    | 2-pass processing – tour of data files | Materna |
+| 14    | SAR Theory – Appendix A | Sandwell |
 | 15    | Orbits | Sandwell |
 | 16    | SAR Image formation – Appendix B | Xu |
 | 17    | InSAR Theory – Appendix C | Tymofyeyeva |
@@ -62,7 +62,7 @@ Session 1 – 1.5 hours
 Session 2 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 18    | Phase unwrapping theory | Mellors |
+| 18    | Phase filtering and unwrapping theory | Mellors |
 | 19    | Phase unwrapping – application – snaphu | Wei |
 | 20    | ScanSAR and TOPS | Xu |
 | 21    | Batch processing | Tymofyeyeva |
