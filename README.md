@@ -41,7 +41,6 @@ Session 2 - 2 hours
 | 10    | Applications – interseismic and atmosphere | Tymofyeyeva |
 | 11    | SAR data access – UNAVCO | Wei |
 | 12    | Sentinel data access demo and ASF | Wei |
-
 ### Breakout session continue with assigned groups
 
 ### DAY-2 – July 23
@@ -61,6 +60,6 @@ Session 2 – 1.5 hours
 | 19    | Phase unwrapping – application – snaphu | Wei |
 | 20    | ScanSAR and TOPS | Xu |
 | 21    | Batch processing | Tymofyeyeva |
-
+### Breakout session continue with assigned groups
 
 
