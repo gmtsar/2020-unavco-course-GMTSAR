@@ -8,11 +8,12 @@ This is a short course repository for the 2020 UNAVCO GMTSAR short course
 [Paul Wessel](http://www.soest.hawaii.edu/wessel/),
 [Ekaterina Tymofyeyeva](https://igppweb.ucsd.edu/~etymofyeyeva/),
 [Kang Wang](http://seismo.berkeley.edu/~kwang/),
-[Kathryn Materna](https://scholar.google.com/citations?user=sBJoFrkAAAAJ&hl=en),
+[Kathryn Materna](https://scholar.google.com/citations?user=sBJoFrkAAAAJ&hl=en)
 
 ### Assisted by
 [Rebecca Bendick](https://www.unavco.org/highlights/2020/unavco-president.html),
 [Melissa Weber](https://connect.unavco.org/display/per018591),
+[Donna Charlevoix](https://connect.unavco.org/display/per968358)
 
 ### Installation:
 Please refer to the gmtsar wiki page https://github.com/gmtsar/gmtsar/wiki for installation.
@@ -54,18 +55,17 @@ Session 1 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
 | 13    | 2-pass processing – tour of data files | Materna |
-| 14    | SAR Theory – Appendix A | Sandwell |
-| 15    | Orbits | Sandwell |
-| 16    | SAR Image formation – Appendix B | Xu |
-| 17    | InSAR Theory – Appendix C | Tymofyeyeva |
+| 14    | SAR Theory and orbits– Appendix A | Sandwell |
+| 15    | SAR Image formation – Appendix B | Xu |
+| 16    | InSAR Theory – Appendix C | Tymofyeyeva |
 
 Session 2 – 1.5 hours
 | **Number** | **Theme** | **Instructor** |
 |-----------|--------------|--------------|
-| 18    | Phase filtering and unwrapping theory | Mellors |
-| 19    | Phase unwrapping – application – snaphu | Wei |
-| 20    | ScanSAR and TOPS | Xu |
-| 21    | Batch processing | Tymofyeyeva |
+| 17    | Phase filtering and unwrapping theory | Mellors |
+| 18    | Phase unwrapping – application – snaphu | Wei |
+| 19    | ScanSAR and TOPS | Xu |
+| 20    | Batch processing | Tymofyeyeva |
 #### Breakout session continue with assigned groups
 
 
