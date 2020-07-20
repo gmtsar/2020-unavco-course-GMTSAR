@@ -21,6 +21,10 @@ Please refer to the gmtsar wiki page https://github.com/gmtsar/gmtsar/wiki for i
 ### Need help?
 Please ask your questions by opening an Issue insde this short course repository. You'll need a github account to do this. You could also write emails to your assigned instructor for help, but describing in details of the problems you met and keeping the thread readable will also help others. In cases you have a question during the lecture. We'll have instructors babysitting the chat window, and answer them. If they feel that the questions are important and need to be addressed by the lecturing instructor, they will interupt and ask that question.  
 
+### Slack chat room
+While the lectures go on, we will be holding a Slack chat room where you could pose questions and get answers in real-time.
+https://join.slack.com/t/gmtsar/shared_invite/zt-ga5jrvyo-hshRo_JwzhjMliwGpAgkYQ
+
 ### Course Materials:
 All course materials including slides, notes and video records will be uploaded to a shared Google Drive https://drive.google.com/drive/u/2/folders/1Nn9aMAPCimxW4U37IQqTkBgx7kwwjTJd
 
